@@ -20,3 +20,7 @@ The data is in the attached file ultimate_data_challenge.json. See below for a d
 Perform any cleaning, exploratory analysis, and/or visualizations to use the provided data for this analysis (a few sentences/plots describing your approach will suffice). What fraction of the observed users were retained?
 Build a predictive model to help Ultimate determine whether or not a user will be active in their 6th month on the system. Discuss why you chose your approach, what alternatives you considered, and any concerns you have. How valid is your model? Include any key indicators of model performance.
 Briefly discuss how Ultimate might leverage the insights gained from the model to improve its long­ term rider retention (again, a few sentences will suffice).
+
+
+# Relax challenge
+Defining an "adopted user" as a user who has logged into the product on three separate days in at least on seven-day period, identify which factors predict future user adoption. 
